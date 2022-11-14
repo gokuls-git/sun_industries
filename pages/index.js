@@ -19,7 +19,7 @@ export async function getStaticProps() {
       console.log(pageContent, "page data")
   
       return {
-        props: {
+        props: { 
           data: pageContent,
         },
         revalidate: 300,

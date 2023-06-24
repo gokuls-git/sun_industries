@@ -1,4 +1,3 @@
-# REACT_NEXT WORKFLOW
+#Sun Industries 
 
-Workflow for all React Next JS Development 
-Forked BRANCH
+PaperBag MAnufacturing
